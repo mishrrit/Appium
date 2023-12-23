@@ -1,0 +1,4 @@
+Blog: https://www.devonblog.com/test-automation/appium-architecture-an-overview/
+
+https://stackoverflow.com/questions/76077033/how-to-pass-the-com-android-permissioncontroller-permission-ui-reviewpermissions
+
