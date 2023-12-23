@@ -1,8 +1,0 @@
-common issues:
-app incompatability - restart ide
-appium server not starting in the console - upgrade appium java client to latest i.e. 8.5.0
-
-
-appium-inspector for inspecting elements
-https://github.com/appium/appium-inspector/releases
-
